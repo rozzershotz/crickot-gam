@@ -1,5 +1,4 @@
-from over import Over
+from innings import Innings
 
-over = Over()
-over.play()
-
+innings = Innings()
+innings.play()
